@@ -70,10 +70,10 @@ Este proyecto consiste en un carrusel de imágenes que permite visualizar difere
 ## 📁 Acceso al proyecto  
 
 🔗 Repositorio en GitHub:  
-**[Repositorio](https://github.com/PaolaBasualdo/carrusel-imagenes)**
+**[Repositorio](https://github.com/PaolaBasualdo/carrusel)**
 
 🔗 Versión desplegada en GitHub Pages:  
-**[Ver Proyecto](https://paolabasualdo.github.io/carrusel-imagenes/)**  
+**[Ver Proyecto](https://paolabasualdo.github.io/carrusel/)**  
 
 ---
 
