@@ -18,7 +18,7 @@
 - [Índice](#-índice)
 - [Descripción del proyecto](#-descripción-del-proyecto)
 - [Estado del proyecto](#-estado-del-proyecto)
-- [Características de la aplicación](#-características-de-la-aplicación)
+- [Características de la aplicación](#caracteristicas)
 - [Funcionalidades del proyecto](#-funcionalidades-del-proyecto)
 - [Acceso al proyecto](#-acceso-al-proyecto)
 - [Tecnologías utilizadas](#-tecnologías-utilizadas)
@@ -46,8 +46,7 @@ Este proyecto consiste en un carrusel de imágenes que permite visualizar difere
 
 ---
 
-## 🛠️ Características de la aplicación  
-
+<h2 id="caracteristicas">🛠️ Características de la aplicación</h2>
 <ul>
   <li>✔️ Carrusel de imágenes interactivo.</li>
   <li>✔️ Transiciones automáticas cada 3 segundos.</li>
